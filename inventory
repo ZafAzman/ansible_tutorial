@@ -1,1 +1,1 @@
-192.168.1.108 ansible_python_interpreter=/usr/bin/pythong3.12
+192.168.1.108 ansible_python_interpreter=/usr/bin/python3.12
